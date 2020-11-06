@@ -10,9 +10,6 @@ I'm going to *try* and link things here like
 - sub + alt [[Another Test#Here's another heading|ALT TEXT]]
 
 - a default kind of link [a link here](http://google.com/)
-- an internal default link, with heading [link here](another_test#Here's another heading)
-
-<Link to="/another_test">Another Test</Link>
 
 
 ## Kebab-Included Test thing
