@@ -10,9 +10,8 @@ I'm going to *try* and link things here like
 - sub + alt [[Another Test#Here's another heading|SOME SUB TEXT]]
 
 - a default kind of link [a link here](http://google.com/)
-- an internal default link, no alt, yes slash [link here](/another_test)
-- an internal default link, no alt, no slash [link here](another_test)
-- an internal default link, with alt, no slash [link here](another_test('is this alt text?''))
+- an internal default link, with alt, no slash [link here](another_test('is this alt text?'))
+- an internal default link, with alt, no slash [link here](another_test 'is this alt text?')
 - specified link
 <Link to="/another_test">Another Test</Link>
 
