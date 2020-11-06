@@ -9,3 +9,4 @@ I'm going to *try* and link things here like
 - sub heading: [[Another Test#Here's a HEADING]]
 - sub + alt [[Another Test#Here's another heading|SOME SUB TEXT]]
 
+- a default kind of link [a link here](http://google.com/)
