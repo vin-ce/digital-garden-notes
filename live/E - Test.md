@@ -6,7 +6,7 @@ date: 2020-11-06
 I'm going to *try* and link things here like 
 - normal link: [[Another Test|alt text]]
 
-
+- test link with span:
 
 ## Kebab-Included Test thing
 
