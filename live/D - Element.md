@@ -7,6 +7,6 @@ An element is a primitive (in the programming sense like a number, a character, 
 ---
 **See also/ References**:
 
-Related To: [[SPIO Model MOC]]  
-Created On: [[2020-08-06]] *from* [[A - Personal Dynamic Medium]] *and [[A - A City is Not a Tree]]*  
-Last Updated On: [[2020-08-06]]  
+Related To: [[SPIO Model MOC]]
+Created On: [[2020-08-06]] *from* [[A - Personal Dynamic Medium]] *and* [[A - A City is Not a Tree]]
+Last Updated On: [[2020-08-06]]

@@ -6,6 +6,9 @@ Hey! This is another test file
 
 - [[E - Test]]
 
+<span className='test'>
+	Some test thing in here
+</span>
 
 # Here's a HEADING
 

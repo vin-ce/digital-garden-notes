@@ -6,14 +6,14 @@ Inputs can be thought of as arguments, outputs as what it returns.
 
 Inputs and outputs can be anything, whether it be [[D - Element|elements]] or [[D - Function|functions]].
 
-- **Inputs** 
+- **Inputs**
 - Inputs can be:
 	- a context, 
 	- an action, 
 	- an event,
 	- some kind of stimulus etc
 
-**Outputs**  
+**Outputs**
 - Outputs can: 
 	- emit back out of the the [[D - System|system]],   
 	- serve as an input into another parameter within the system (so the output becomes consumed by an input again)
