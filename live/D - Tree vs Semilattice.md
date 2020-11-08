@@ -1,3 +1,7 @@
+---
+date: 2020-08-15
+---
+
 From [[A - A City is Not a Tree|A City is Not a Tree]], there are two types of [[D - Structure|structures]]. One is the [[D - Tree|tree]] and the other is a [[D - Semilattice|semilattice]]
 
 The primary difference between the two is complexity. 

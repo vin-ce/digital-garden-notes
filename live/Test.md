@@ -1,13 +1,5 @@
----
-date: 2020-11-05
----
+normal text with footnote but with space [^ additional referneces here]
 
-Test file
+> Block quote with reference with space [^ some reference here]
 
-Some test thing in here
-
-# Here's a HEADING
-
-some thing happening here
-
-## Here's another heading
+normal text with footnote but no space[^ additional referneces here]

@@ -1,3 +1,7 @@
+---
+date: 2020-08-06
+---
+
 [[E - Systems are functions that can change itself|Systems are functions that can change itself]]. [[D - Function|Functions]] operate solely on non-self changing input/ output. 
 
 A system is defined by its:

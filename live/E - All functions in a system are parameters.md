@@ -1,3 +1,7 @@
+---
+date: 2020-08-06
+---
+
 Functions determine how information (inputs) flows, is interpreted, and gets outputted. All functions in a system are parameters since [[E - Functional things have meaningful output|functional things have meaningful output]], and if a function is within a system, then it must affect the system or its output in some way. 
 
 Even if the function receives an input that's meant specifically for it (i.e can only be interpreted/ converted by it), that function is *still* part of the system as this would simply outline another case of how the system operates when given this particular input. 

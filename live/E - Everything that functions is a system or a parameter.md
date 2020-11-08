@@ -1,3 +1,7 @@
+---
+date: 2020-08-06
+---
+
 Everything that functions is either a [[D - System|system]] or a [[D - Parameter|parameter]] that operates on [[D - Inputs and Outputs|inputs and outputs]].
 
 The data used to communicate between the systems/ parameters can be [[D - Element|elements]] or a [[D - Function|functions]]. Elements form units when the elements are tightly coupled through how the relate to/ worth with one another. Units are in and of themselves systems too. 

@@ -1,3 +1,7 @@
+---
+date: 2020-08-06
+---
+
 Parameters are functions that can take [[D - Inputs and Outputs|inputs and outputs]].
 
 [[E - All functions in a system are parameters|All functions in a system are parameters]], [[E - All parameters are functional|all parameters are functional]] and [[E - Parameters determine how a system operates|parameters determine how a system operates]]. 
