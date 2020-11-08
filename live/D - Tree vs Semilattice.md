@@ -5,12 +5,12 @@ From [[A - A City is Not a Tree|A City is Not a Tree]], there are two types of [
 The primary difference between the two is complexity. 
 A tree can only produce a very limited amount of subsets from its elements (so from a set of [1, 2, 3, 4, 5, 6] where you can't have a full set (as that's the system itself) or singular sets ([1], [2] etc), or empty sets ([-]), you can at most produce [2, 3, 4, 5, 6] + [3, 4, 5, 6] + [4, 5, 6] + [5, 6])
  
-<label for="sn-demo"
+<label for="sn-5"
        class="margin-toggle sidenote-number">
 sidenote 5 test 
 </label>
 <input type="checkbox"
-       id="sn-demo"
+       id="sn-5"
        class="margin-toggle"/>
 	   
 <span class="sidenote"> 
@@ -18,11 +18,12 @@ sidenote 5 test
 </span>
 
 
-sidenote 6 test <label for="sn-demo"
+sidenote 6 test 
+<label for="sn-6"
        class="margin-toggle sidenote-number">
 </label>
 <input type="checkbox"
-       id="sn-demo"
+       id="sn-6"
        class="margin-toggle"/>
 
 <span class="sidenote"> 
