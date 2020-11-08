@@ -44,12 +44,14 @@ For example:
 	- The play activities and the objects involved in it form a system
 		- These systems don't exist in isolation- they overlap among themselves and also among other systems outside of play. It's multi-functional. 
 
-sidenote 2 test <label for="sn-2" class="margin-toggle sidenote-number"> </label> <input type="checkbox" id="sn-2" class="margin-toggle"/>
+sidenote 2 test 
+<label for="sn-2" class="margin-toggle sidenote-number"> </label> <input type="checkbox" id="sn-2" class="margin-toggle"/>
 <span class="sidenote"> 
 	sidenote 2
 </span>
 
-sidenote 3 test <label for="sn-3" class="margin-toggle sidenote-number"> </label> <input type="checkbox" id="sn-3" class="margin-toggle"/>
+sidenote 3 test 
+<label for="sn-3" class="margin-toggle sidenote-number"> </label> <input type="checkbox" id="sn-3" class="margin-toggle"/>
 
 <span class="sidenote"> 
 	sidenote 3
