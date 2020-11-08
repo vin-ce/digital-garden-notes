@@ -34,7 +34,10 @@ sidenote 3 test <label for="sn-3" class="margin-toggle sidenote-number"> </label
 
 *From [[A - A City is Not a Tree|A City is Not a Tree]]*
 > Edward Banfield, in his book Political Influence, gives a detailed account of the patterns of influence and control that have actually led to decisions in Chicago. He shows that, although the lines of administrative and executive control have a formal structure which is a tree, these formal chains of influence and authority are entirely overshadowed by the ad hoc lines of control which arise naturally as each new city problem presents itself. These ad hoc lines depend on who is interested in the matter, who has what at stake, who has what favours to trade with whom.
+
 > Nobody's sphere of influence is entirely under the control of any one superior; each person is under different influences as the problems change.
+> 
+> random quote test
 
 Related To: [[D - Structure]]
 Created On: [[2020-08-15]] *from* [[A - A City is Not a Tree]]
