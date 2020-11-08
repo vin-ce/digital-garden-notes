@@ -4,13 +4,12 @@
 
 A system is defined by its:
 - [[D - Parameter|Parameters]] 
-	- [[E - All functions in a system are parameters]] and [[E - Parameters determine how a system operates]]. 
+	- [[E - All functions in a system are parameters|all functions in a system are parameters]] and [[E - Parameters determine how a system operates|parameters determine how a system operates]]. 
 - [[D - Element|Elements]]. 
 
-Everything within a system can shift ([[E - A dynamic system can be one where it's able to change its outputs| A dynamic system can be one which is able to change its outputs|]]). After all, that is what makes it a system. However, [[E - A system can be static| a system can be static]] too. 
+Everything within a system can shift ([[E - A dynamic system can be one where it's able to change its outputs|A dynamic system can be one which is able to change its outputs]]). After all, that is what makes it a system. However, [[E - A system can be static|a system can be static]] too. 
 
 ---
-**See also/ References**:
 
 Related To: [[SPIO Model MOC]]
 Created On: [[2020-08-05]] *from* [[A - Personal Dynamic Medium]]

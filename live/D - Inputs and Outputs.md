@@ -22,7 +22,6 @@ Inputs and outputs can be anything, whether it be [[D - Element|elements]] or [[
 Outputs can also be thought of as 'consequence'. If a function takes 5 minutes to work through an input, those 5 minutes are also part of output, alongside whatever the function produced.
 
 ---
-**See also/ References**:
 
 Related To: [[SPIO Model MOC]]
 Created On: [[2020-08-05]] *from* [[A - Personal Dynamic Medium]]
