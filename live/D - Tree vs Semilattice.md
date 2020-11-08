@@ -4,38 +4,9 @@ From [[A - A City is Not a Tree|A City is Not a Tree]], there are two types of [
 
 The primary difference between the two is complexity. 
 A tree can only produce a very limited amount of subsets from its elements (so from a set of [1, 2, 3, 4, 5, 6] where you can't have a full set (as that's the system itself) or singular sets ([1], [2] etc), or empty sets ([-]), you can at most produce [2, 3, 4, 5, 6] + [3, 4, 5, 6] + [4, 5, 6] + [5, 6])
- 
-<label for="sn-5"
-       class="margin-toggle sidenote-number">
-sidenote 5 test 
-</label>
-<input type="checkbox"
-       id="sn-5"
-       class="margin-toggle"/>
-	   
-<span class="sidenote"> 
-	sidenote 5
-</span>
-
-
-sidenote 6 test 
-<label for="sn-6"
-       class="margin-toggle sidenote-number">
-</label>
-<input type="checkbox"
-       id="sn-6"
-       class="margin-toggle"/>
-
-<span class="sidenote"> 
-	sidenote 6
-</span>
-
 
 A semilattice, because it can overlap, can produce 2^(n-1) - 1 number of subsets. 
-> a tree based on 20 elements can contain at most 19 further subsets of the 20, while a semilattice based on the same 20 elements can contain more than 1,000,000 different subsets.<label for="sn-1" class="margin-toggle sidenote-number"> </label> <input type="checkbox" id="sn-1" class="margin-toggle"/>
-<span class="sidenote"> 
-	Not actually sure if you can produce 19 further subsets <Link to='/element'>let's see if this gets parsed</Link>
-</span>
+> a tree based on 20 elements can contain at most 19 further subsets of the 20, while a semilattice based on the same 20 elements can contain more than 1,000,000 different subsets.
 
 For example:
 - Another example of the fruitlessness of separation are playgrounds
@@ -43,19 +14,6 @@ For example:
 	- It's as if play doesn't occur anywhere else, indoors, by the river, etc
 	- The play activities and the objects involved in it form a system
 		- These systems don't exist in isolation- they overlap among themselves and also among other systems outside of play. It's multi-functional. 
-
-sidenote 2 test 
-<label for="sn-2" class="margin-toggle sidenote-number"> </label> <input type="checkbox" id="sn-2" class="margin-toggle"/>
-<span class="sidenote"> 
-	sidenote 2
-</span>
-
-sidenote 3 test 
-<label for="sn-3" class="margin-toggle sidenote-number"> </label> <input type="checkbox" id="sn-3" class="margin-toggle"/>
-
-<span class="sidenote"> 
-	sidenote 3
-</span>
 
 ---
 **See also/ References**:
