@@ -1,12 +1,10 @@
-# Tree vs Semilattice
-
 From [[A - A City is Not a Tree|A City is Not a Tree]], there are two types of [[D - Structure|structures]]. One is the [[D - Tree|tree]] and the other is a [[D - Semilattice|semilattice]]
 
 The primary difference between the two is complexity. 
 A tree can only produce a very limited amount of subsets from its elements (so from a set of [1, 2, 3, 4, 5, 6] where you can't have a full set (as that's the system itself) or singular sets ([1], [2] etc), or empty sets ([-]), you can at most produce [2, 3, 4, 5, 6] + [3, 4, 5, 6] + [4, 5, 6] + [5, 6])
 
 A semilattice, because it can overlap, can produce 2^(n-1) - 1 number of subsets. 
-> a tree based on 20 elements can contain at most 19 further subsets of the 20, while a semilattice based on the same 20 elements can contain more than 1,000,000 different subsets.
+> A tree based on 20 elements can contain at most 19 further subsets of the 20, while a semilattice based on the same 20 elements can contain more than 1,000,000 different subsets.
 
 For example:
 - Another example of the fruitlessness of separation are playgrounds
@@ -23,6 +21,7 @@ For example:
 >
 > Nobody's sphere of influence is entirely under the control of any one superior; each person is under different influences as the problems change.
 
+---
 
 Related To: [[D - Structure]]
 Created On: [[2020-08-15]] *from* [[A - A City is Not a Tree]]

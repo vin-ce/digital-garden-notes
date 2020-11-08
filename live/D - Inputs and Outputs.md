@@ -1,5 +1,3 @@
-# Inputs and Outputs
-
 When thinking about how something works, we can think of it functioning in terms of its input, its outputs, and the [[D - Parameter|parameters]], which takes in the input, works on it in some way, and produces an output. 
 
 Inputs can be thought of as arguments, outputs as what it returns.
