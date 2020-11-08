@@ -14,7 +14,7 @@ A semilattice, because it can overlap, can produce 2^(n-1) - 1 number of subsets
        id="sn-1"
        class="margin-toggle"/>
 <span class="sidenote"> 
-Not actually sure if you can produce 19 further subsets [[D - Element|linking to element - let's see if this gets parsed]]
+	Not actually sure if you can produce 19 further subsets <Link to='/element'>let's see if this gets parsed</Link>
 </span>
 
 For example:
