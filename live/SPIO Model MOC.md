@@ -5,16 +5,16 @@ I happened to be in a head space of thinking about systems as I just read [[A - 
 
 
 ## Core Definitions
-[[D - System]]
-[[D - Parameter]]
-[[D - Inputs and Outputs]]
+- [[D - System]]
+- [[D - Parameter]]
+- [[D - Inputs and Outputs]]
 
-[[D - Element]]
-[[D - Function]]
+- [[D - Element]]
+- [[D - Function]]
 
-[[E - Everything that functions is a system or a parameter]]
-[[E - Systems are functions that can change itself]]
-[[E - All functions in a system are parameters]]
+- [[E - Everything that functions is a system or a parameter]]
+- [[E - Systems are functions that can change itself]]
+- [[E - All functions in a system are parameters]]
 
 ### Additional Elements
 [[D - Unit]]
