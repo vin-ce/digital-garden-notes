@@ -6,13 +6,8 @@ The primary difference between the two is complexity.
 A tree can only produce a very limited amount of subsets from its elements (so from a set of [1, 2, 3, 4, 5, 6] where you can't have a full set (as that's the system itself) or singular sets ([1], [2] etc), or empty sets ([-]), you can at most produce [2, 3, 4, 5, 6] + [3, 4, 5, 6] + [4, 5, 6] + [5, 6])
 
 A semilattice, because it can overlap, can produce 2^(n-1) - 1 number of subsets. 
-> a tree based on 20 elements can contain at most 19 further subsets of the 20, while a semilattice based on the same 20 elements can contain more than 1,000,000 different subsets.
-<label for="sn-1"
-       class="margin-toggle sidenote-number">
-</label>
-<input type="checkbox"
-       id="sn-1"
-       class="margin-toggle"/>
+> a tree based on 20 elements can contain at most 19 further subsets of the 20, while a semilattice based on the same 20 elements can contain more than 1,000,000 different subsets.<label for="sn-1" class="margin-toggle sidenote-number"> </label> <input type="checkbox" id="sn-1" class="margin-toggle"/>
+
 <span class="sidenote"> 
 	Not actually sure if you can produce 19 further subsets <Link to='/element'>let's see if this gets parsed</Link>
 </span>
