@@ -1,3 +1,7 @@
+---
+date: 2020-10-12
+---
+
 ## Reality Proper
 - [[D - Full Reality]]
 - [[D - Common Reality]]
@@ -9,8 +13,8 @@
 ## Simulations
 - [[D - Simulation]]
 
-- [[E - Simulations are lower resolution gestural reproductions of reality]]
 - [[E - When a simulation reaches the complexity of that which it's simulating, it transcends onto the same plane of existence]]
+- [[E - Simulations are lower resolution gestural reproductions of reality]]
 
 - [[E - Our mind holds only a simulation of reality]]
 
