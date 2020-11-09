@@ -34,7 +34,7 @@ Inspired by [Maggie Appleton's page prefixes](https://maggieappleton.com/roam-ga
 
 
 ## Technical
-This is built on [Gatsby](gatsbyjs.com/), and is my first project using it. I've thoroughly enjoyed it so far!
+This is built on [Gatsby](https://www.gatsbyjs.com/), and is my first project using it. I've thoroughly enjoyed it so far!
 
 Folder in Obsidian, public git, pulled from there as pages, parsed through custom plugin that turns double bracket links into proper ones. 
 
