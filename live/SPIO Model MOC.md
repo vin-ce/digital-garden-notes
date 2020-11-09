@@ -9,7 +9,7 @@ I happened to be in a head space of thinking about systems as I just read [[A - 
 
 
 ## Core Definitions
-- [[D - System]]
+- [[D - System|System]]
 - [[D - Parameter]]
 - [[D - Inputs and Outputs]]
 
