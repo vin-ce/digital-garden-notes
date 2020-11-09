@@ -1,4 +1,4 @@
 ---
 date: 2020-11-09
 ---
-test thing
+test thing links to [[test-2]]
