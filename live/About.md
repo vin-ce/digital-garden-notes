@@ -2,12 +2,15 @@
 date: 2020-11-10
 ---
 
-This is a [[D - Digital Garden|digital garden]] that's hooked up to my own note-taking system with [Obsidian](https://obsidian.md/). 
+This is my [[D - Digital Garden|digital garden]] that's hooked up to my own note-taking system with [Obsidian](https://obsidian.md/). My computation + design work [lives here](http://vincentli.design/).
 
 While exploring them, there's a few important things to note:
 
 - I often word opinions as strong assertions - it should be kept in mind that these notes are written for myself, hence the lack of care in properly phrasing things to an audience. The last thing I want is to [[Treatment of Others MOC#Non-Coercion|coerce]] anyone into any opinion, and most likely I don't even hold those views that strongly either.
-	  - Speaking of which, if you want to chat, I'm [on the bird app here (I don't tweet anything though)](https://twitter.com/vincent_yc_li), and you can also find me on [arena](https://www.are.na/vincent-li). Email is also great - do so at yc (dot) li (dot) vincent (at) gmail (dot) com. 
+	  - Speaking of which, if you want to chat, I'm
+		  - [on the bird app (I don't tweet anything though)](https://twitter.com/vincent_yc_li), and you can also find me on 
+		  - [arena](https://www.are.na/vincent-li). Email is also great - do so at 
+		  - yc (dot) li (dot) vincent (at) gmail (dot) com. 
 
   - Linked words (such as '[[D - Goal|goals]]') often refer to a specific framing of the idea that's connected to a swath of thought (for example, when I link 'goals', I'm referring to a particular model of how they shape everything we interpret, feel, think, do, and also [[Teleology MOC|our absolute control]] over our ability to shape them).
 
@@ -19,8 +22,6 @@ While exploring them, there's a few important things to note:
 	3. I selectively upload notes. If you're curious about something that's private, please feel free to message me! I'll see if it's ready to share.
 
 Below exists more detailed stuff.
-
-
 
 ## Note Types
 Below are note types listed in a roughly hierarchical manner.
@@ -36,12 +37,12 @@ The notion of Evergreen came from [[Andy Matuschak]]. Have a look [here](https:/
 ### Type Prefixes
 Inspired by [Appleton's page prefixes](https://maggieappleton.com/roam-garden), I've created my own, which you might see crop up from time to time. 
 
-- **A - Articles**
-- **B - Books**
-- **C - Courses**
-- **D - Definitions**
+- A - Articles
+- B - Books
+- C - Courses
+- D - Definitions
 	- Definitions/ Concepts that aren't quite MOCs
-- **E - Evergreens**
+- E - Evergreens
 
 
 
