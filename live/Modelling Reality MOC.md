@@ -2,5 +2,5 @@
 date: 2020-10-12
 ---
 
-[[SPIO Model MOC]]
+[[SPIO Model MOC|alternative text]]
 [[About#Navigating]]
