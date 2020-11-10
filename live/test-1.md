@@ -2,7 +2,7 @@
 date: 2020-11-09
 ---
 
-here is some footnotes [^Footnote thing in here] hello and here[^another footonte] there
+here is some [[here's a link]] footnotes [^Footnote thing in here] hello and here[^another footonte] there
  
 none footnote 
 
