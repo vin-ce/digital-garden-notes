@@ -2,7 +2,7 @@
 date: 2020-11-10
 ---
 
-This is my [[D - Digital Garden|digital garden]] that's hooked up to my own note-taking system with [Obsidian](https://obsidian.md/). My computation + design work [lives here](http://vincentli.design/).
+This is my [[D - Digital Garden|digital garden]] that's hooked up to my own note-taking system with [Obsidian](https://obsidian.md/). My computation + design work [lives here](http://vincentli.space/).
 
 While exploring them, there's a few important things to note:
 
