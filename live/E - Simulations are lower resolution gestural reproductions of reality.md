@@ -1,4 +1,6 @@
-# Simulations are lower resolution gestural reproductions of reality
+---
+date: 2020-08-09
+---
 
 [[D - Simulation|Simulations]] by definition are recreations of some input reality. 
 
@@ -11,7 +13,6 @@ In our current state, we are unable to completely recreate reality in all its co
 It becomes real when all of its elements and complexity is at play, [[E - When a simulation reaches the complexity of that which it's simulating, it transcends onto the same plane of existence|thus graduating being simply a simulation]]. This could be the impact it has on the person doing the simulating etc, although it's heavily debatable. See the definition note in the first line for more discussion.
 
 ---
-**See also/ References**:
 
 Related To: [[Modelling Reality MOC]]
 Created On: [[2020-08-09]] *from* [[A - Personal Dynamic Medium]]

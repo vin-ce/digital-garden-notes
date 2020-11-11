@@ -1,4 +1,6 @@
-# Common truth is found through the collective
+---
+date: 2020-09-06
+---
 
 "Common" is used in the sense of [[D - Common Reality|common reality]] here. Bit of an obvious statement, but things like science is established on the basis of collective judgement and belief. 
 
@@ -8,8 +10,8 @@ What we deem real does often has to be checked with disconnected others as evide
 
 ---
 **See also/ References**:
-- From Anil Seth's Ted Talk
-	> "We're all hallucinating all the time, including right now. It's just that when we agree about our hallucinations, we call that reality."
+- From Anil Seth's [Ted Talk](https://www.youtube.com/watch?v=lyu7v7nWzfo)
+	> We're all hallucinating all the time, including right now. It's just that when we agree about our hallucinations, we call that reality.
 
 Related To: [[Rational Reasoning vs Emotions and Intuitions MOC]]
 Created On: [[2020-09-03]] *from [[B - The Righteous Mind]]*

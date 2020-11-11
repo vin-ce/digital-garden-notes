@@ -1,4 +1,6 @@
-# Accidental vs Absolute Reality
+---
+date: 2020-10-12
+---
 
 There are two kinds of reality (according to [[Kosho Uchiyama]] in Opening the Hand of Thought):
 
@@ -14,7 +16,6 @@ There are two kinds of reality (according to [[Kosho Uchiyama]] in Opening the H
 
 
 ---
-**See also/ References**:
 
 Related To: [[Modelling Reality MOC]]
 Created On: [[2020-10-12]] *from* [[B - Opening the Hand of Thought]]

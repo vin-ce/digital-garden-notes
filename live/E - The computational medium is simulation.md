@@ -1,4 +1,6 @@
-# The computational medium is simulation
+---
+date: 2020-08-09
+---
 
 The capabilities of the computational medium allows for creations of [[D - Simulation|simulated]] worlds, and its particular [[E - The power of the computational medium comes from its ability to read and write dynamic systems|power stemming from its capability to read + write dynamic systems]]. This makes it a [[E - The computational medium is a meta-medium|meta-medium]]. 
 

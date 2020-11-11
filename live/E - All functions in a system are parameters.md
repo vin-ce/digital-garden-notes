@@ -2,17 +2,15 @@
 date: 2020-08-06
 ---
 
-Functions determine how information (inputs) flows, is interpreted, and gets outputted. All functions in a system are parameters since [[E - Functional things have meaningful output|functional things have meaningful output]], and if a function is within a system, then it must affect the system or its output in some way. 
+Functions determine how information ([[D - Inputs and Outputs|inputs]]) flows, is interpreted, and gets outputted. All functions in a system are parameters since [[E - Functional things have meaningful output|functional things have meaningful output]], and if a function is within a system, then it must affect the system or its output in some way. 
 
 Even if the function receives an input that's meant specifically for it (i.e can only be interpreted/ converted by it), that function is *still* part of the system as this would simply outline another case of how the system operates when given this particular input. 
 
 Put another way, [[E - Everything stands in relation to everything else|everything stands in relation to everything else]], and so a function that exists within a system will always affect the system in some way. 
 
-You can have functions within parameters, but those are also parameters as their outputs ultimately contribute to the system's output (and defines how it works with inputs)
+You can have functions within parameters, but those are also parameters, as their outputs ultimately contribute to the system's output (and defines how it works with inputs)
 
-If [[E - Parameters determine how a system operates|parameters determine how a system operates]], what about functional parameters that are redundant but are still in the system? See: [[E - All parameters are functional|all parameters are functional]]
-
-
+If [[E - Parameters determine how a system operates|parameters determine how a system operates]], what about functional parameters that are redundant but are still in the system? See: *[[E - All parameters are functional|All parameters are functional]]*.
 
 ---
 **See also/ References**:

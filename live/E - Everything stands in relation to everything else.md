@@ -1,4 +1,6 @@
-# Everything stands in relation to everything else
+---
+date: 2020-08-06
+---
 
 Everything is linked to everything else. Nothing in this universe can stand in absolute irrelevance to everything else, as its irrelevance is defined by it's relationship between it and everything else. 
 

@@ -7,9 +7,6 @@ date: 2020-10-12
 - [[D - Common Reality]]
 - [[D - Accidental vs Absolute Reality]]
 
-## Truth
-- [[Truth MOC]]
-
 ## Simulations
 - [[D - Simulation]]
 
@@ -19,6 +16,10 @@ date: 2020-10-12
 - [[E - Our mind holds only a simulation of reality]]
 
 - [[E - The computational medium is simulation]]
+
+## Truth
+- [[Truth MOC]]
+
 
 ## Misc
 - [[E - Given the same input, context changes the output]]
