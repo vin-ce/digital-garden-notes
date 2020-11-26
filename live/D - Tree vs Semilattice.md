@@ -2,7 +2,7 @@
 date: 2020-08-15
 ---
 
-There are two types of [[D - Structure|structures]][^From Christopher Alexander, A City is Not a Tree (ACiNaT)]: a [[D - Tree|tree]] or a [[D - Semilattice|semilattice]]
+There are two types of [[D - Structure|structures]]: a [[D - Tree|tree]] or a [[D - Semilattice|semilattice]].[^From Christopher Alexander, A City is Not a Tree (ACiNaT)]:
 
 Complexity is the primary difference. 
 
