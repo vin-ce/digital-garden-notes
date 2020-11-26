@@ -2,11 +2,13 @@
 date: 2020-08-15
 ---
 
-There are two types of [[D - Structure|structures]]: a [[D - Tree|tree]] or a [[D - Semilattice|semilattice]].[^From Christopher Alexander, A City is Not a Tree (ACiNaT)]:
+There are two types of [[D - Structure|structures]]: a [[D - Tree|tree]] or a [[D - Semilattice|semilattice]]. [^From Christopher Alexander, A City is Not a Tree (ACiNaT)]:
 
 Complexity is the primary difference. 
 
-![[a-city-is-not-a-tree_diagram-D.png]] [^This image shows a tree but does correspond with my example below]
+![[a-city-is-not-a-tree_diagram-D.png]] 
+(This image shows a tree but does correspond with my example below)
+
 A tree can only produce a limited amount of subsets from its elements. From a set [1, 2, 3, 4, 5, 6], you can at most produce [2, 3, 4, 5, 6] + [3, 4, 5, 6] + [4, 5, 6] + [5, 6]) (you can't have a full set (as that's the system itself), singular sets ([1], [2] etc), or empty sets ([-]),) 
 
 ![[a-city-is-not-a-tree_diagram-B.png]]
