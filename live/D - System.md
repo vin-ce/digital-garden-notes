@@ -2,14 +2,14 @@
 date: 2020-08-06
 ---
 
-[[E - Systems are functions that can change itself|Systems are functions that can change itself]]. [[D - Function|Functions]] operate solely on non-self changing input/ output. 
+[[E - Systems are functions that can change itself|Systems are functions that can change itself]]. 
 
-A system is defined by its:
-- [[D - Parameter|Parameters]] 
+A system is defined by its [[D - Inputs and Outputs|inputs and outputs]] - its: 
+- [[D - Parameter|Parameters]] and its 
 	- [[E - All functions in a system are parameters|All functions in a system are parameters]] and [[E - Parameters determine how a system operates|parameters determine how a system operates]]. 
-- [[D - Element|Elements]]. 
+- [[D - Element|Elements]]
 
-Everything within a system can shift ([[E - A dynamic system can be one where it's able to change its outputs|A dynamic system can be one which is able to change its outputs]]). After all, that is what makes it a system. However, [[E - A system can be static|a system can be static]] too. 
+All parts in a system can change, but it can be either [[E - A dynamic system can be one where it's able to change its outputs|dynamic]] or [[E - A system can be static|static]].
 
 ---
 

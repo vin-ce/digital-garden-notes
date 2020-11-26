@@ -2,15 +2,13 @@
 date: 2020-08-09
 ---
 
-[[D - Simulation|Simulations]] by definition are recreations of some input reality. 
+[[D - Simulation|Simulations]] are, by definition, recreations of some [[D - Inputs and Outputs|input]] reality. 
 
-We can think of 'lower resolution' in two senses:
-1. We are unable to perceive what's outside of what we can perceive (thinking in the 4th dimension visually, for example)
-2. We don't have access to the full spectrum of what we can perceive. 
+They seek to reproduce the real thing as much as possible, but are 'lower resolution' because they lack, on a fundamental level, something that the real thing has.
 
-In our current state, we are unable to completely recreate reality in all its complexity on a computer, where most simulations happen. In other uses of the term, like 'simulating' a particular scenario or situation, it's still a lower resolution 'mock' version of the real thing (in the second sense). While it's attempting to be as close to it as possible, it is still 'not the real thing', hence a simulation of it. 
+Think of how computers are often attempting to 'simulate' something, whether it be conversations, paper or scenarios and situations. In our current state, we are unable to completely recreate reality in all its complexity on a computer, and so it stays as a lower res 'mock'. However, various features of it are computer-specific, for example a web browser isn't a 'simulation' of anything[^Parts of it could be, like the bookmark, but the browser in its entirety becomes its own thing].
 
-It becomes real when all of its elements and complexity is at play, [[E - When a simulation reaches the complexity of that which it's simulating, it transcends onto the same plane of existence|thus graduating being simply a simulation]]. This could be the impact it has on the person doing the simulating etc, although it's heavily debatable. See the definition note in the first line for more discussion.
+It becomes real (no longer a simulation) when [[E - When a simulation reaches the complexity of that which it's simulating, it transcends onto the same plane of existence|all of its elements and complexity are at play]], or when we can no longer differentiate between the real and the simulated (see *[[D - Simulation|Simulation]]* for more discussion).
 
 ---
 

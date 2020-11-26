@@ -2,40 +2,46 @@
 date: 2020-11-09
 ---
 
-The Systems, Parameters, Inputs + Outputs (SPIO) model is a self-concocted, super rudimentary model of how the world functions. It was spurred by trying to figure out what exactly makes a medium 'dynamic' (while parsing back through the notes for [[A - Personal Dynamic Medium|Personal Dynamic Medium]]), which then necessitated a bunch of other base level concepts and interactions.
+The Systems, Parameters, Inputs + Outputs (SPIO) model is a self-concocted, super rudimentary model of how the world functions. It was spurred by trying to figure out what exactly makes a medium 'dynamic'[^while parsing through the notes for Personal Dynamic Medium], which then necessitated a bunch of other base level concepts and interactions.
 
 I happened to be in a head space of thinking about systems as I had just read [[A - A City is Not a Tree|A City is Not a Tree]], listened to [[Joscha Bach]]'s chat with [[Lex Fridman]] and was in the deep of programming things.
 
-A lot of the writing feels quite hard to understand - this is due to poor prose and a desire to robustly define some concept. For me, seeing how the concepts are mapped onto/ interprets/ explains higher level things is where it becomes useful and interesting. It's not necessarily accurate, but, for me, is a helpful frame of mind to understand things.
+The overview covers the primary ideas and do not provide real-world examples. The notes (sometimes) do. The *SPIO Workbench of Ideas* collects concepts interpreted through SPIO. I will include them in the overview once they are converted into notes.
 
-The SPIO Workbench of Ideas collect just such higher-level interpretations. I have yet to start converting them into notes. 
+### Overview
+
+The world is made up of [[D - System|systems]]. Systems are [[D - Function|functions]], which are things that take in [[D - Inputs and Outputs|inputs]], manipulate them in some way to then produce outputs. 
+
+Systems are made up of [[D - Parameter|parameters]] ([[E - All functions in a system are parameters|which are functions too]]) and [[D - Element|elements]]. What makes a system special is that [[E - Systems are functions that can change itself|they can change themselves]] through their own parameters.
+
+What makes a system (or anything) [[D - Dynamism|dynamic]] is that it [[E - For it to be dynamic, different inputs can produce different outputs|different inputs produce different outputs]], and/ or the system can [[D - Alteration, Creation, Deletion|change]] its own parameters such that the *same* inputs [[E - A dynamic system can be one where it's able to change its outputs|create different outputs]]. What makes a system dynamic also depends [[E - Parameters determine a system's dynamism|on its parameters]] (although [[E - Dynamic parts don't make a dynamic system|it dynamic parts don't always make a dynamic system]]).
+
+[[E - A system can be static|A system can be static]] too if it [[E - A function is static if given all possible inputs, it always produces the same output|always produces the same output even if you give it a bunch of different inputs]]. This includes things that are [[E - Cyclical things are static|cyclical]]. [[E - Being static is not necessarily bad|Being static is not necessarily bad]] - it depends on *what* the static thing is.
+
+More broadly, whether something is dynamic or not is a subjective matter as it's dependent on [[E - Restriction and staticism is the ratio of input to output|the ratio of input to output]].
+
+When we talk about something as redundant, it's not redundant, as [[E - Functions are redundant when its output has no consequence|redundant things have no consequence]] (good or bad). This makes them [[E - Truly redundant things are invisible|invisible]]. 
+
+This means that [[E - Functional things have meaningful output|functional things have meaningful output]], and that [[E - All parameters are functional|all parameters are therefore functional]].
 
 ## Core Definitions
+
 - [[D - Inputs and Outputs]]
 - [[D - System|System]]
+	- [[E - Systems are functions that can change itself]]
+	- [[E - Systems are ways to deal with inputs]]
 - [[D - Parameter]]
+	- [[E - All functions in a system are parameters]]
 
-- [[D - Element]]
 - [[D - Function]]
+- [[D - Element]]
 
-- [[E - Everything that functions is a system or a parameter]]
-- [[E - Systems are functions that can change itself]]
-- [[E - All functions in a system are parameters]]
-
-### Additional Elements
-- [[D - Unit]]
-- [[D - Structure]]
-- [[D - Tree]]
-- [[D - Semilattice]]
-
-- [[D - Tree vs Semilattice]]
 
 ## Dynamic
 - [[D - Dynamism]]
 
 - [[E - For it to be dynamic, different inputs can produce different outputs]]
-- [[E - Parameters determine dynamism]]
-- [[E - Dynamism consists of dynamic parameters]]
+- [[E - Parameters determine a system's dynamism]]
 - [[E - A dynamic system can be one where it's able to change its outputs]]
 
 - [[D - Alteration, Creation, Deletion]]
@@ -54,8 +60,14 @@ The SPIO Workbench of Ideas collect just such higher-level interpretations. I ha
 - [[E - Functional things have meaningful output]]
 - [[E - All parameters are functional]]
 
-## Misc
-- [[E - Systems are ways to deal with inputs]]
+
+### Additional Elements
+- [[D - Unit]]
+- [[D - Structure]]
+- [[D - Tree]]
+- [[D - Semilattice]]
+
+- [[D - Tree vs Semilattice]]
 
 ### Workbench
 - [[SPIO Workbench of Ideas]]

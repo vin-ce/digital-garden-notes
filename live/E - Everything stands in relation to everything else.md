@@ -2,7 +2,7 @@
 date: 2020-08-06
 ---
 
-Everything is linked to everything else. Nothing in this universe can stand in absolute irrelevance to everything else, as its irrelevance is defined by it's relationship between it and everything else. 
+Everything is linked to everything else. Nothing in this universe can stand in absolute irrelevance to everything else, as its irrelevance is defined by it's relationship between it and everything else. Everything acts as a [[D - Causes and Constraints|constraint]] to everything else.
 
 Pure chaos is impossible, as is pure formlessness. 
 

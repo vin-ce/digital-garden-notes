@@ -6,19 +6,18 @@ This is my [[D - Digital Garden|digital garden]] that's hooked up to my own note
 
 While exploring them, there's a few important things to note:
 
-- I often word opinions as strong assertions - it should be kept in mind that these notes are written for myself, hence the lack of care in properly phrasing things to an audience. The last thing I want is to [[Treatment of Others MOC#Non-Coercion|coerce]] anyone into any opinion, and most likely I don't even hold those views that strongly either.
-	  - Speaking of which, if you want to chat, I'm
-		  - [on the bird app (I don't tweet anything though)](https://twitter.com/vincent_yc_li), and you can also find me on 
-		  - [arena](https://www.are.na/vincent-li). Email is also great - do so at 
-		  - yc (dot) li (dot) vincent (at) gmail (dot) com. 
+  - I'm always open to discussion! If you want to chat, I'm
+	  - [on the bird app (I don't tweet anything though)](https://twitter.com/vincent_yc_li), and you can also find me on 
+	  - [arena](https://www.are.na/vincent-li). Email is also great - do so at 
+	  - yc (dot) li (dot) vincent (at) gmail (dot) com. 
 
-  - Linked words (such as '[[D - Goal|goals]]') often refer to a specific framing of the idea that's connected to a swath of thought (for example, when I link 'goals', I'm referring to a particular model of how they shape everything we interpret, feel, think, do, as well as our [[Teleology MOC|our absolute control and ability]] to shape them).
+  - Linked words (such as '[[D - Goal|goals]]') refer to a specific framing of the idea (for example 'goals' refer to a particular model of how they shape everything we interpret, feel, think, do, as well as our [[Teleology MOC|our absolute control and ability]] to shape them).
 
 - In many notes I might make reference to one concept multiple times, but I generally only link it in the first mention.
 
 - In terms of navigation, there's three things:
-	1. At the bottom of many notes, you'll see 'Linked References'. They are notes that have linked the current note you're on in that page. 
-	2. I sometimes link to a particular heading section of a note - this does not show up in the hover preview, and so will not show you the relevant snippet.
+	1. The bottom of notes have 'Linked References'. They notes that are linked to the current note you're on. 
+	2. I sometimes link to a particular section of a note - this does not show up in the hover preview, and so will not show you the relevant snippet.
 	3. I selectively upload notes. If you're curious about something that's private, please feel free to message me! I'll see if it's ready to share.
 
 Below exists more detailed stuff.

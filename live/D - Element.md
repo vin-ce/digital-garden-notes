@@ -2,9 +2,11 @@
 date: 2020-08-06
 ---
 
-An element is a primitive (in the programming sense like a number, a character, a boolean etc). They are part of the data that gets [[D - Inputs and Outputs|flown through inputs and produced through outputs]].
+An element is the 'data' that a [[D - System|system]] (and its parts) work with, or that define it in some way. In the programming sense, they're a primitives[^number, character, boolean etc] and variables (that isn't a function).
 
-[[D - Parameter|Parameters]] define the relationships between primitives either through a static equating or a dynamic, functional equating (x = y through some functional relationship).
+Systems can also pass around [[D - Function|functions]] (which are not primitives).
+
+The element is grossly imprecise at the moment.
 
 ---
 

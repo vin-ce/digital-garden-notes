@@ -165,6 +165,7 @@ Hand-picked list.
 - [[B - Finite and Infinite Games]] - [[James Carse]]
 - [[B - The Denial of Death]] - [[Ernest Becker]]
 - [[B - On Bullshit]] - [[Harry Frankfurt]]
+- [[B - The Courage to Be]] - [[Paul Tillich]]
 
 - [[B - Practical Induction]] - [[Elijah Millgram]]
 - [[B - Laws of Form]] - [[G. Spencer-Brown]]
@@ -263,7 +264,6 @@ Hand-picked list.
 
 ## [[0800 Hard Sciences MOC]]
 
-- [[B - The Demon-Haunted World]] - [[Ann Druyan]] + [[Carl Sagan]]
 - [[B - The Beginning of Infinity]] - [[David Deutsch]]
 
 

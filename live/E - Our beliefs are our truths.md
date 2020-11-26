@@ -2,7 +2,7 @@
 date: 2020-10-03
 ---
 
-We believe in what we think to be true, and so all of our beliefs make up all of our 'truths'. Whether or not such belief is *actually* true is another matter (see *[[D - Bullshit|Bullshit]]*).
+We believe in what we think to be [[Truth MOC|true]], and so all of our beliefs make up all of our 'truths'. Whether or not such belief is *actually* true is another matter (see *[[D - Bullshit|Bullshit]]*).
 
 ---
 

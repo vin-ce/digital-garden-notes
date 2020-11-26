@@ -2,19 +2,13 @@
 date: 2020-08-06
 ---
 
-Functions determine how information ([[D - Inputs and Outputs|inputs]]) flows, is interpreted, and gets outputted. All functions in a system are parameters since [[E - Functional things have meaningful output|functional things have meaningful output]], and if a function is within a system, then it must affect the system or its output in some way. 
+All [[D - Function|functions]] in a system are [[D - Parameter|parameters]] since [[E - Functional things have meaningful output|functional things have meaningful output]]. If a function is within a system, then it must affect the system and/ or its output in some way. Put another way, [[E - Everything stands in relation to everything else|everything stands in relation to everything else]].
 
-Even if the function receives an input that's meant specifically for it (i.e can only be interpreted/ converted by it), that function is *still* part of the system as this would simply outline another case of how the system operates when given this particular input. 
+Functions within parameters are also parameters as their outputs ultimately contributes to how the system works with its inputs and what it outputs.
 
-Put another way, [[E - Everything stands in relation to everything else|everything stands in relation to everything else]], and so a function that exists within a system will always affect the system in some way. 
-
-You can have functions within parameters, but those are also parameters, as their outputs ultimately contribute to the system's output (and defines how it works with inputs)
-
-If [[E - Parameters determine how a system operates|parameters determine how a system operates]], what about functional parameters that are redundant but are still in the system? See: *[[E - All parameters are functional|All parameters are functional]]*.
+If [[E - Parameters determine how a system operates|parameters determine how a system operates]], what about redundant parameters that are still in the system? See: *[[E - All parameters are functional|All parameters are functional]]*.
 
 ---
-**See also/ References**:
-[[E - Everything that functions is a system or a parameter|Everything that functions is a system or a parameter]]
 
 Related To: [[SPIO Model MOC]]
 Created On: [[2020-08-05]] *from* [[A - Personal Dynamic Medium]]

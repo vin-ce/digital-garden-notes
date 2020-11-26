@@ -2,11 +2,11 @@
 date: 2020-08-06
 ---
 
-When thinking about how something works, we can think of it functioning in terms of its input, its outputs, and the [[D - Parameter|parameters]], which takes in the input, works on it in some way, and produces an output. 
+We can think about how something works in terms of its input, outputs, and [[D - Parameter|parameters]] (which takes the input and works on it to produce an output). 
 
-In the programming sense, inputs can be thought of as arguments, outputs as what it returns.
+In the programming sense, inputs are arguments, outputs as what it returns.
 
-Inputs and outputs can be anything, whether it be [[D - Element|elements]] or [[D - Function|functions]].
+Inputs and outputs can be anything, whether they are [[D - Element|elements]] or [[D - Function|functions]].
 
 **Inputs**
 - Inputs can be:
@@ -17,11 +17,13 @@ Inputs and outputs can be anything, whether it be [[D - Element|elements]] or [[
 
 **Outputs**
 - Outputs can: 
-	- emit back out of the [[D - System|system]],   
-	- serve as an input into another parameter within the system (so the output becomes consumed by an input again)
-	- [[D - Alteration, Creation, Deletion|Change]] the parameter or system from which it was produced (so feed back into the parameter). or any other parameter in the system that it's within (the parameter that produces such an output is what makes a system a system, as [[E - Systems are functions that can change itself|it enables the system to change itself]]).
+	- Be outputted from the [[D - System|system]].
+	- Serve as an input into another parameter in system that it's currently in.
+	- Feed back into the parameter that it was produced from.
+	- [[D - Alteration, Creation, Deletion|Change]] how the parameter, another parameter within the same system, or system itself [[D - Function|functions]]
+		- A parameter that creates an output like this is what makes the system that it's in a system, as [[E - Systems are functions that can change itself|it enables the system to change itself]]).
 
-- Outputs can also be thought of as 'consequence'. If a function takes 5 minutes to work through an input, those 5 minutes are also part of output, alongside whatever the function produced.
+- Outputs can be thought of as  'consequences'. If a function takes 5 minutes to process, those 5 minutes are also an output.
 
 ---
 

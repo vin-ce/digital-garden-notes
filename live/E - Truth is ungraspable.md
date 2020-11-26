@@ -2,7 +2,9 @@
 date: 2020-10-13
 ---
 
-The really real and the truest truth is ungraspable by human beings. Our minds are so limited, [[E - Our mind holds only a simulation of reality|holding but a simulation of reality]], as is the limited ability of our [[Nature of Thoughts MOC#Low-Res Simulations|thoughts and concepts]]. It makes sense that the most profound experiences (e.g psychedelic, spiritual etc) are totally ineffable.
+The really real and the truest truth is ungraspable by human beings. Our minds are limited, [[E - Our mind holds only a simulation of reality|holding but a simulation of reality]], capable of only producing [[Nature of Thoughts MOC#Low-Res Simulations|low-res thoughts and concepts]]. 
+
+It makes sense that the most profound experiences (e.g psychedelic, spiritual etc) are totally ineffable.
 
 ---
 **See also/ References**:

@@ -2,7 +2,9 @@
 date: 2020-08-09
 ---
 
-Full reality is reality in all of its complexities, whether it's observable or unobservable by humans, who live in [[D - Common Reality|common reality]]. 
+Full reality is reality in *all* of its complexities.
+
+It is comprehended and observed only in part by humans, who live in [[D - Common Reality|common reality]]. 
 
 ---
 
