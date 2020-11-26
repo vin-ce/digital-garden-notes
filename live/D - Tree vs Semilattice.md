@@ -21,7 +21,7 @@ A playground can demonstrate a tree-attempt to separate play from everything els
 This is another fascinating example of the lack of tree-like operation in the world: 
 > Edward Banfield, in his book Political Influence, gives a detailed account of the patterns of influence and control that have actually led to decisions in Chicago. He shows that, although the lines of administrative and executive control have a formal structure which is a tree, these formal chains of influence and authority are entirely overshadowed by the ad hoc lines of control which arise naturally as each new city problem presents itself. These ad hoc lines depend on who is interested in the matter, who has what at stake, who has what favours to trade with whom.
 >
-> Nobody's sphere of influence is entirely under the control of any one superior; each person is under different influences as the problems change.[^ACiNaT]
+> Nobody's sphere of influence is entirely under the control of any one superior; each person is under different influences as the problems change. [^ACiNaT]
 
 ---
 
