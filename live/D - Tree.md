@@ -11,7 +11,7 @@ A tree is a structure in which one section of a subset is never connected to ano
 
 It is a [[D - Semilattice|semilattice]] that doesn't overlap.
 
-> The enormity of this restriction is difficult to grasp. It is a little as though the members of a family were not free to make friends outside the family, except when the family as a whole made a friendship.[^ACiNaT]
+> The enormity of this restriction is difficult to grasp. It is a little as though the members of a family were not free to make friends outside the family, except when the family as a whole made a friendship.[^From ACiNaT]
 
 ---
 **See also/ References**:

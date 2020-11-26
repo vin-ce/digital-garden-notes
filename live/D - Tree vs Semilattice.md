@@ -14,7 +14,7 @@ A tree can only produce a limited amount of subsets from its elements. From a se
 ![[a-city-is-not-a-tree_diagram-B.png]]
 A semilattice, which overlaps, can produce 2^(n-1) - 1 number of subsets. 
 
-> A tree based on 20 elements can contain at most 19 further subsets of the 20, while a semilattice based on the same 20 elements can contain more than 1,000,000 different subsets.[^ACiNaT]
+> A tree based on 20 elements can contain at most 19 further subsets of the 20, while a semilattice based on the same 20 elements can contain more than 1,000,000 different subsets.[^From ACiNaT]
 
 A playground can demonstrate a tree-attempt to separate play from everything else. If we were to imagine that play only happens in them, it becomes ridiculous as it boxes play inside a specific space rather than happening everywhere else - on couches, by the river, in a forest etc, The play activities and the objects involved in it form a system, and these systems don't exist in isolation- they overlap among themselves and also among other systems outside of play. It's multi-functional. 
 
